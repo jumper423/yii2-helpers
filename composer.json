@@ -1,13 +1,13 @@
 {
-  "name": "jumper423/yii2-image",
-  "description": "Инструменты для работы с картинками.",
-  "keywords": ["yii2", "webdriver", "selenium"],
-  "homepage": "https://github.com/jumper423/yii2-image",
+  "name": "jumper423/yii2-helpers",
+  "description": "Helpers.",
+  "keywords": ["yii2", "helpers"],
+  "homepage": "https://github.com/jumper423/yii2-helpers",
   "type": "project",
   "license": "Apache License 2.0",
   "support": {
-    "issues": "https://github.com/jumper423/yii2-image/issues?state=open",
-    "source": "https://github.com/jumper423/yii2-image"
+    "issues": "https://github.com/jumper423/yii2-helpers/issues?state=open",
+    "source": "https://github.com/jumper423/yii2-helpers"
   },
   "minimum-stability": "stable",
   "require": {
